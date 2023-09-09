@@ -1,0 +1,18 @@
+body{
+    background-color: green;
+}
+p{
+    color: blue;
+    font-size: 30px; 
+    font-weight: bolder;
+    font-style: unset;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1; /* giãn dòng */
+    text-align: justify;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 5px;
+    margin-left: 15px;
+    font-family: 'Oswald', sans-serif;
+}
